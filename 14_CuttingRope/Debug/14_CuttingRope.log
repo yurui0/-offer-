@@ -1,0 +1,33 @@
+﻿生成启动时间为 2020/9/8 21:27:16。
+     1>项目“F:\test_algorithm\test\14_CuttingRope\14_CuttingRope.vcxproj”在节点 9 上(Rebuild 个目标)。
+     1>ClCompile:
+         F:\VS2013_exe\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\14_CuttingRope.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         F:\VS2013_exe\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\14_CuttingRope.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 14_CuttingRope.cpp
+         14_CuttingRope.cpp
+     1>f:\test_algorithm\test\14_cuttingrope\14_cuttingrope.cpp(10): warning C4627: “#include <iostream>”:  在查找预编译头使用时跳过
+                 将指令添加到“stdafx.h”或重新生成预编译头
+     1>f:\test_algorithm\test\14_cuttingrope\14_cuttingrope.cpp(11): warning C4627: “#include <cmath>”:  在查找预编译头使用时跳过
+                 将指令添加到“stdafx.h”或重新生成预编译头
+     1>f:\test_algorithm\test\14_cuttingrope\14_cuttingrope.cpp(70): error C3861: “pow”:  找不到标识符
+     1>f:\test_algorithm\test\14_cuttingrope\14_cuttingrope.cpp(78): error C2039: “cout”: 不是“std”的成员
+     1>f:\test_algorithm\test\14_cuttingrope\14_cuttingrope.cpp(78): error C2065: “cout”: 未声明的标识符
+     1>f:\test_algorithm\test\14_cuttingrope\14_cuttingrope.cpp(78): error C2039: “endl”: 不是“std”的成员
+     1>f:\test_algorithm\test\14_cuttingrope\14_cuttingrope.cpp(78): error C2065: “endl”: 未声明的标识符
+     1>f:\test_algorithm\test\14_cuttingrope\14_cuttingrope.cpp(80): error C2039: “cout”: 不是“std”的成员
+     1>f:\test_algorithm\test\14_cuttingrope\14_cuttingrope.cpp(80): error C2065: “cout”: 未声明的标识符
+     1>f:\test_algorithm\test\14_cuttingrope\14_cuttingrope.cpp(80): error C2039: “endl”: 不是“std”的成员
+     1>f:\test_algorithm\test\14_cuttingrope\14_cuttingrope.cpp(80): error C2065: “endl”: 未声明的标识符
+     1>f:\test_algorithm\test\14_cuttingrope\14_cuttingrope.cpp(84): error C2039: “cout”: 不是“std”的成员
+     1>f:\test_algorithm\test\14_cuttingrope\14_cuttingrope.cpp(84): error C2065: “cout”: 未声明的标识符
+     1>f:\test_algorithm\test\14_cuttingrope\14_cuttingrope.cpp(84): error C2039: “endl”: 不是“std”的成员
+     1>f:\test_algorithm\test\14_cuttingrope\14_cuttingrope.cpp(84): error C2065: “endl”: 未声明的标识符
+     1>f:\test_algorithm\test\14_cuttingrope\14_cuttingrope.cpp(86): error C2039: “cout”: 不是“std”的成员
+     1>f:\test_algorithm\test\14_cuttingrope\14_cuttingrope.cpp(86): error C2065: “cout”: 未声明的标识符
+     1>f:\test_algorithm\test\14_cuttingrope\14_cuttingrope.cpp(86): error C2039: “endl”: 不是“std”的成员
+     1>f:\test_algorithm\test\14_cuttingrope\14_cuttingrope.cpp(86): error C2065: “endl”: 未声明的标识符
+     1>已完成生成项目“F:\test_algorithm\test\14_CuttingRope\14_CuttingRope.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.54

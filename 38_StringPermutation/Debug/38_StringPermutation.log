@@ -1,0 +1,16 @@
+﻿生成启动时间为 2020/9/8 21:27:21。
+     1>项目“F:\test_algorithm\test\38_StringPermutation\38_StringPermutation.vcxproj”在节点 9 上(Rebuild 个目标)。
+     1>ClCompile:
+         F:\VS2013_exe\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\38_StringPermutation.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         F:\VS2013_exe\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\38_StringPermutation.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 38_StringPermutation.cpp
+         38_StringPermutation.cpp
+       Link:
+         F:\VS2013_exe\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\test_algorithm\test\Debug\38_StringPermutation.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\test_algorithm\test\Debug\38_StringPermutation.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\test_algorithm\test\Debug\38_StringPermutation.lib" /MACHINE:X86 Debug\38_StringPermutation.obj
+         Debug\stdafx.obj
+         38_StringPermutation.vcxproj -> F:\test_algorithm\test\Debug\38_StringPermutation.exe
+     1>已完成生成项目“F:\test_algorithm\test\38_StringPermutation\38_StringPermutation.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.04

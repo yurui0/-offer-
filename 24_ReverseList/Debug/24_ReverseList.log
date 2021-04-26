@@ -1,0 +1,19 @@
+﻿生成启动时间为 2020/9/8 21:27:18。
+     1>项目“F:\test_algorithm\test\24_ReverseList\24_ReverseList.vcxproj”在节点 6 上(Rebuild 个目标)。
+     1>ClCompile:
+         F:\VS2013_exe\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\24_ReverseList.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         F:\VS2013_exe\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\24_ReverseList.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 24_ReverseList.cpp
+         24_ReverseList.cpp
+         F:\VS2013_exe\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt List.cpp
+         List.cpp
+       Link:
+         F:\VS2013_exe\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\test_algorithm\test\Debug\24_ReverseList.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\test_algorithm\test\Debug\24_ReverseList.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\test_algorithm\test\Debug\24_ReverseList.lib" /MACHINE:X86 Debug\24_ReverseList.obj
+         Debug\List.obj
+         Debug\stdafx.obj
+         24_ReverseList.vcxproj -> F:\test_algorithm\test\Debug\24_ReverseList.exe
+     1>已完成生成项目“F:\test_algorithm\test\24_ReverseList\24_ReverseList.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.59
